@@ -1,6 +1,4 @@
-<img width="1680" height="985" alt="Ekran Resmi 2025-11-03 10 04 52" src="https://github.com/user-attachments/assets/dbd10f3d-86cb-4c7f-ba9e-c95fd93a5fda" /># 🚀 Selimhan Çil – Interactive Developer Portfolio
-
-<img width="1680" height="985" alt="Ekran Resmi 2025-11-03 10 04 42" src="https://github.com/user-attachments/assets/5ec2efe5-c933-4014-b2b6-d1ff512b896d" />
+# 🚀 Selimhan Çil – Interactive Developer Portfolio
 
 
 An **interactive digital book** that showcases my journey in software engineering, entrepreneurship, and creativity.  
