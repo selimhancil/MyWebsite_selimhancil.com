@@ -1,0 +1,50 @@
+{
+  "chapters": [
+    {
+      "id": 1,
+      "title": "Başlangıç",
+      "subtitle": "Teknoloji ve girişimciliğe erken ilgi",
+      "content": "Küçük yaşlardan itibaren teknoloji ve yaratıcılığın kesişimine hayran kaldım. İnternette her şeyin nasıl çalıştığına dair meraktan başlayan yolculuğum, önemli dijital deneyimler inşa etme tutkusuna dönüştü. Kodun sadece bir araç değil, hikaye anlatımı ve inovasyon için bir tuval olduğunu keşfettim.",
+      "image": "/images/beginning.jpg",
+      "gradient": "from-gray-100 to-gray-200"
+    },
+    {
+      "id": 2,
+      "title": "Vizyon",
+      "subtitle": "Bir yaratıcı olarak zihniyet ve hedefler",
+      "content": "Vizyonum kod yazmanın ötesine uzanıyor. Teknoloji aracılığıyla değer yaratmaya, başkalarını güçlendirmeye ve gerçek sorunları çözen ürünler inşa etmeye inanıyorum. Bir yaratıcı olarak hedefim, karmaşık teknik kavramlar ile erişilebilir çözümler arasındaki boşluğu kapatmak ve teknolojiyi herkes için daha yaklaşılabilir hale getirmek.",
+      "image": "/images/vision.jpg",
+      "gradient": "from-blue-50 to-blue-100"
+    },
+    {
+      "id": 3,
+      "title": "Yolculuk",
+      "subtitle": "Yolumu şekillendiren projeler",
+      "content": "Yolculuğum boyunca dönüştürücü projeler üzerinde çalışma ayrıcalığına sahip oldum:\n\n• Artplus Global — Sanat pazarını devrimleştirme\n• Dijitalciler.net — Dijital içerik üreticilerini bir araya getirme\n• TrendCRM — Müşteri ilişkilerini kolaylaştırma\n\nHer proje bana teknoloji, iş dünyası ve iş birliğinin gücü hakkında yeni bir şey öğretti.",
+      "image": "/images/journey.jpg",
+      "gradient": "from-gray-50 to-black"
+    },
+    {
+      "id": 4,
+      "title": "Gelecek",
+      "subtitle": "AI, no-code ve uluslararası hedefler",
+      "content": "Gelecek gerçek zamanlı olarak yazılıyor. Yapay zeka, teknolojiyi nasıl inşa ettiğimizi ve etkileşim kurduğumuzu yeniden şekillendiriyor. No-code platformları yaratıcılığı demokratikleştiriyor. Hedefim bu evrimin ön saflarında olmak, bu araçların yeni olasılıkları nasıl açabileceğini ve küresel ölçekte fırsatlar yaratabileceğini keşfetmek.",
+      "image": "/images/future.jpg",
+      "gradient": "from-black to-gray-900"
+    },
+    {
+      "id": 5,
+      "title": "İletişim & Teşekkürler",
+      "subtitle": "İletişime geçelim",
+      "content": "Hikayemi keşfetmek için zaman ayırdığınız için teşekkürler. İş birliği yapmakla ilgileniyorsanız, aklınızda bir proje varsa veya sadece iletişime geçmek istiyorsanız, haberlerinizi almak isterim.\n\nBirlikte harika bir şeyler inşa edelim.",
+      "image": "/images/contact.jpg",
+      "gradient": "from-gray-100 to-blue-50",
+      "social": {
+        "twitter": "https://twitter.com/selimhancil",
+        "linkedin": "https://linkedin.com/in/selimhancil",
+        "github": "https://github.com/selimhancil",
+        "email": "mailto:hello@selimhancil.com"
+      }
+    }
+  ]
+}
